@@ -11,36 +11,24 @@ Interstellar is one of the best modern unblocked game sites. Check it out <a hre
 # Deploying
 Interstellar is completely open source, so you can deploy it to these services.
 
+Interstellar is not open-source so that you can alter it in any way, it is open source for the public to make more links.
+
+Altering/Modifying my code is against our License, and we will file a DMCA on you and get your site and repo taken down and your github account terminated.
+
 **Note:**  All of the built-in games will **NOT** work on certain services, since these services have a size limit.
   
 ### Free Services
 
+
 <a target="_blank" href="https://replit.com/github/interstellarnetwork/interstellar-deployable"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/interstellarnetwork/interstellar-deployable)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/interstellarnetwork/interstellar)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/interstellarnetwork/interstellar)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://github.com/interstellarnetwork/interstellar/wiki/How-to-deploy-to-OnRender.)
+[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/imbubbo/interstellar)
 
-## How to deploy on Replit
 
-Step 1. Create a **NEW** Repl.
+### <a href="https://github.com/interstellarnetwork/Interstellar/wiki/How-to-deploy-to-Replit-(Semi-Advanced)">How to deploy to Replit - Replit Free Plan</a>
 
-Step 2. Scroll down and select **Node.js** as the template.
-
-Step 3. Name the Repl, and then click **"Create Repl"**.
-
-Step 4. On the right-hand side of the screen, you should see a panel labeled "Shell". Copy and paste the following code into the Shell:
-
-`
-git clone https://github.com/interstellarnetwork/interstellar-deployable.git
-`
-
-Once the deployment is complete, you will see a folder called **"interstellar-deployable"**. You need to move all the files that are inside the folder out of that folder.
-
-### Alternatively 
-
-You can click [here](https://replit.com/@imbubbo/interstellar-deployable?v=1) to fork the project on Replit.
-
-## Paid Services (Some are free with a credit/debit card)
+# Paid Services (Some are free with a Credit/Debit Card)
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar)
 [![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/interstellarnetwork/interstellar/archive/refs/heads/main.zip)
@@ -58,6 +46,7 @@ You can click [here](https://replit.com/@imbubbo/interstellar-deployable?v=1) to
 
 
 # Contributors 
+Thank you to everyone who has contributed to Interstellar!
 <img src="https://contrib.rocks/image?repo=interstellarnetwork/interstellarnetwork.github.io"/>
 
 # Credits
